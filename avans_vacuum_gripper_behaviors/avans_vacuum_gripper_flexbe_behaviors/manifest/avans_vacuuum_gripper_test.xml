@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="avans_vacuuum_gripper_test">
+
+	<executable package_path="avans_vacuum_gripper_flexbe_behaviors.avans_vacuuum_gripper_test_sm" class="avans_vacuuum_gripper_testSM" />
+	<tagstring></tagstring>
+	<author>Gerard Harkema</author>
+	<date>Wed Apr 27 2022</date>
+	<description>
+		avans_vacuuum_gripper_test
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>
